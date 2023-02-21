@@ -7,3 +7,7 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [x] Make my personal readme
+- [ ] read a book about GitHub
+- [ ] I'm running out of ideas
